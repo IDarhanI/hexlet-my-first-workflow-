@@ -1,1 +1,1 @@
-# hexlet-my-first-workflow-
+# hexlet-my-first-workflow- [![show-directory](https://github.com/IDarhanI/hexlet-my-first-workflow-/actions/workflows/greeting.yml/badge.svg)](https://github.com/IDarhanI/hexlet-my-first-workflow-/actions/workflows/greeting.yml)
