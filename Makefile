@@ -1,2 +1,2 @@
-make sey-hello:
+make say-hello:
 		@echo "Hello, World" 
